@@ -1,0 +1,9 @@
+server:
+  port: 7050
+  context-path: /
+spring:
+  redis:
+#    host: 127.0.0.1
+#    port: 6379
+    host: 39.106.148.195
+    port: 7001
